@@ -1,0 +1,11 @@
+# Blender
+*.blend1
+*.blend2
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*~
