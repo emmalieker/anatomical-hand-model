@@ -29,9 +29,9 @@ Five pose presets created with Sakura Poselib: OK gesture, neutral, flat, point,
 The armature consists of 21 bones covering individual finger joints (DIP, PIP, MCP), metacarpals, thumb CMC, and wrist. Joint rotation limits for flexion, extension, abduction, and adduction are constrained per bone to match the physiological range of motion of a human hand, meaning the rig **cannot be posed into physically impossible configurations**.
 
 <p align="center">
-  <img src="assets/rig/rig_ok_gesture.png" alt="21-bone FK armature in OK gesture pose" width="420">
+  <img src="assets/rig/rig_ok_gesture.png" alt="21-bone FK armature in OK gesture pose" width="400">
   &nbsp;&nbsp;
-  <img src="assets/rig/rig_neutral.png" alt="FK armature in neutral pose" width="420">
+  <img src="assets/rig/rig_neutral.png" alt="FK armature in neutral pose" width="400">
 </p>
 
 ## Topology & UV Layout
