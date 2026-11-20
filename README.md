@@ -95,16 +95,17 @@ Clean tri-dominant mesh (5,790 triangles / 3,007 vertices) optimized for real-ti
 │   ├── wireframe/          # Topology & mesh views
 │   └── uv/                 # UV layout
 ├── exports/
-│   └── hand_model.glb      # Ready-to-use export
+│   └── hand_anatomical_baked.glb   # Ready-to-use export (baked textures)
 └── blender/
-    └── hand_model.blend     # Source Blender file
+    └── hand_anatomical.blend        # Source Blender file
 ```
 
 ## Getting Started
 
-1. **Quick use:** Download `exports/hand_model.glb` and import into your engine of choice.
-2. **Edit the rig:** Open `blender/hand_model.blend` in Blender 4.5+.
-3. **Download:** [Get the model on TurboSquid](https://www.turbosquid.com/3d-models/human-hand-anatomically-accurate-rigged-and-animated-with-skin-texture-3d-model-2564269).
+1. **Download the repo:** Click the green **Code** button above → **Download ZIP**, or clone with `git clone https://github.com/emmalieker/anatomical-hand-model.git`
+2. **Quick use:** Import `exports/hand_anatomical_baked.glb` into your engine of choice (Unity, Unreal, Three.js).
+3. **Edit the rig:** Open `blender/hand_anatomical.blend` in Blender 4.5+.
+4. **Also available on:** [TurboSquid](https://www.turbosquid.com/3d-models/human-hand-anatomically-accurate-rigged-and-animated-with-skin-texture-3d-model-2564269)
 
 ## License
 
