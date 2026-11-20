@@ -6,6 +6,10 @@
 .DS_Store
 Thumbs.db
 
+
 # Editor
 *.swp
 *~
+
+# Folder
+Texture
